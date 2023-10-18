@@ -30,3 +30,5 @@
 
 ## 다들 몇시까지 할거에요?
 ## 전 갑니다,,,
+
+## 231018 마지막 git push test. Checkmate. - pjh
