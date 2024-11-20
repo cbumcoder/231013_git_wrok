@@ -116,3 +116,5 @@ print()
 print("노드의 개수 = %d개" % count_node(n1))
 print("단말의 개수 = %d개" % count_leaf(n1))
 print("트리의 높이 = %d" % calc_heiht(n1))
+
+2024
